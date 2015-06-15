@@ -33,7 +33,7 @@ Although the object is attached to the global scoped `navigator`, it is not avai
 
 ## Installation
 
-    cordova plugin add cordova-plugin-dialogs
+    cordova plugin add https://github.com/boltex/cordova-plugin-dialogs.git
 
 ## Methods
 
